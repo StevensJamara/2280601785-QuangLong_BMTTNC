@@ -4,6 +4,7 @@ from cipher.caesar import CaesarCipher
 from cipher.railfence import RailFenceCipher
 from cipher.playfair import PlayfairCipher
 from cipher.transposition import TranspositionCipher
+
 #-------------------------------------------------FLASK APPLICATION---------------------------------------------------
 app = Flask(__name__)
 
